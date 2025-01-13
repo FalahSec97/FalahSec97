@@ -48,5 +48,9 @@ My journey in software engineering has fueled my passion for cybersecurity, and 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+## Cyber SecurityProjects
 - Detection Lab
+
+## Software Engineering Projects
+- Detection Lab
+
